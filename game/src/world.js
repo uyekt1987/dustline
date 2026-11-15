@@ -186,10 +186,10 @@ export function createWorld(scene) {
   sun.shadow.camera.far = 60;
   sun.shadow.bias = -0.0004;
   scene.add(sun);
-  const fill = new THREE.DirectionalLight(new THREE.Color('#6f87b8'), 0.5);
+  const fill = new THREE.DirectionalLight(new THREE.Color('#6f87b8'), 0.75);
   fill.position.set(12, 10, -14);
   scene.add(fill);
-  scene.add(new THREE.HemisphereLight(new THREE.Color('#7a86b8'), new THREE.Color('#3a2f28'), 0.7));
+  scene.add(new THREE.HemisphereLight(new THREE.Color('#7a86b8'), new THREE.Color('#3a2f28'), 1.0));
 
   // Dust motes, ~200 points; main.js drifts them in render.
   const dustGeo = new THREE.BufferGeometry();
