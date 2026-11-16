@@ -1,5 +1,8 @@
 # DUSTLINE — Tactical FPS
 
+[![make.fun · threejs-fps-02](https://make.fun/badge/threejs-fps-02.svg)](https://make.fun/bounty/threejs-fps-02?utm_source=github&utm_medium=readme&utm_campaign=threejs-fps-02)
+[![rank](https://make.fun/badge/threejs-fps-02/uyekt1987/dustline/rank.svg)](https://make.fun/bounty/threejs-fps-02/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=threejs-fps-02)
+[![reward](https://make.fun/badge/threejs-fps-02/uyekt1987/dustline/reward.svg)](https://make.fun/bounty/threejs-fps-02?utm_source=github&utm_medium=readme&utm_campaign=threejs-fps-02)
 [![threejs-fps-02](https://img.shields.io/badge/make.fun-threejs--fps--02-f0a830)](https://make.fun/bounty/threejs-fps-02)
 [![license](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
 [![three.js](https://img.shields.io/badge/three.js-0.187.0-232a33)](https://threejs.org)
